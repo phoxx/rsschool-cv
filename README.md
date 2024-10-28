@@ -1,1 +1,1 @@
-https://phoxx.github.io/rsschool-cv/cv
+https://phoxx.github.io/rsschool-cv/cv.md
